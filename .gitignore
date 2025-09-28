@@ -1,0 +1,17 @@
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache files
+pycache/
+*.pyc
+
+# Ignore secret keys
+.env
+
+# Ignore large data files (instruct user to download them)
+*.csv
+*.xlsx
+
+# Ignore generated output files
+*.json
+*.md
